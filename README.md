@@ -1,3 +1,11 @@
+<!--
+ * @Author: wangfan fan.wang@uhomes.com
+ * @Date: 2023-05-29 15:20:22
+ * @LastEditors: wangfan fan.wang@uhomes.com
+ * @LastEditTime: 2023-05-30 17:48:20
+ * @FilePath: /my-utils-demo/README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # my-utils-demo
 一些个人自用的小工具和demo
 
@@ -13,7 +21,9 @@
 
    这个是合并json的工具代码，将json放在一个文件夹下，会自动遍历并且生成一个新的大json
 
+4. hebingg.js
 
+   这个是导出某个文件下所有中文的代码，但是会被特殊字符截断，还没加兼容
 
 
 
