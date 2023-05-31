@@ -2,7 +2,7 @@
  * @Author: wangfan fan.wang@uhomes.com
  * @Date: 2023-05-29 15:20:22
  * @LastEditors: wangfan fan.wang@uhomes.com
- * @LastEditTime: 2023-05-30 18:26:40
+ * @LastEditTime: 2023-05-31 10:08:49
  * @FilePath: /my-utils-demo/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -29,3 +29,6 @@
 
    保证key唯一
 
+6. top_movie
+
+   用node爬虫爬豆瓣top250，没做分页的爬，参考学习用
